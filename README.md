@@ -34,7 +34,8 @@ Once you've finished the lab, commit all of your new code, and push it to GitHub
 1. Click the Commit button - the green up arrow in the tool bar
 2. Type a commit message
 3. Hover over the commit button then select Commit and Push
-4. Verify you see your code in your GitHub page
+4. In the next dialog window, click Push
+5. Verify you see your code in your GitHub page
 
 ## Help??!!
 
