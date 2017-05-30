@@ -9,7 +9,7 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * Public Week 1 question tests.
- * Don't modify this file!
+ * DON'T MODIFY THIS FILE!
  */
 
 public class TestMilesFromMCTC {

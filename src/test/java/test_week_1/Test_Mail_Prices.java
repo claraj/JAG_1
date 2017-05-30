@@ -3,7 +3,14 @@ package test_week_1;
 import junit.framework.TestCase;
 import week_1.Question_4_Mail_Prices;
 
-public class Question_4_Mail_PricesTest extends TestCase {
+
+/**
+ * Public Week 1 question tests.
+ * DON'T MODIFY THIS FILE!
+ */
+
+
+public class Test_Mail_Prices extends TestCase {
     
     public void testCalculateStampPrice() throws Exception {
 

@@ -9,8 +9,9 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * Public Week 1 question tests.
- * Don't modify this file!
+ * DON'T MODIFY THIS FILE!
  */
+
 
 public class TestWindows10Upgrade {
 
@@ -55,8 +56,7 @@ public class TestWindows10Upgrade {
         assertTrue("Windows 8, 2GHz processor, 4GB of RAM should return true", Question_2_Windows_10_Install.checkWindows10SystemRequirements(w8, 2, 4));
 
 
-        // Not ok for upgrades
-
+        // Combinations that are not ok for upgrades
 
         // Test with different OS, RAM and CPU exact match
         assertFalse("Linux, 1GHz processor, 2GB of RAM should return false", Question_2_Windows_10_Install.checkWindows10SystemRequirements(linux, 1, 2));
