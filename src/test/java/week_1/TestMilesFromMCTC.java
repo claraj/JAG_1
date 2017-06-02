@@ -13,6 +13,12 @@ import static org.junit.Assert.assertTrue;
 
 public class TestMilesFromMCTC {
 
+    @Test
+    public void testMethodDoesNotReturnNull() {
+        // Test that the "return null" statement was removed
+        assertNotNull("Remove the 'return null' statement from the milesFromMCTC method, and replace with your own code", Question_1_Miles_From_MCTC.milesFromMCTC(0));
+
+    }
 
     @Test
     public void testMilesFromMCTC() {
@@ -22,9 +28,6 @@ public class TestMilesFromMCTC {
         String more = "more than 10 miles";
         String equal = "exactly 10 miles";
 
-
-        // Test that the "return null" statement was removed
-        assertNotNull("Remove the 'return null' statement from the milesFromMCTC method, and replace with your own code", Question_1_Miles_From_MCTC.milesFromMCTC(0));
 
         // Test with miles less than 10
 
