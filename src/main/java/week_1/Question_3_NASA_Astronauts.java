@@ -34,8 +34,8 @@ public class Question_3_NASA_Astronauts {
 
     public static boolean checkAstronautQualifications(double height, double swimDistance) {
 
-        // TODO check the height and swim distance and return a boolean value
-        // representing whether the user meets these qualifications
+        // TODO check the height, and swim distance.
+        // return a boolean value representing whether the user meets these qualifications
 
         // TODO remove this line and replace with your own code
 
