@@ -1,7 +1,6 @@
-package test_week_1;
+package week_1;
 
 import junit.framework.TestCase;
-import week_1.Question_4_Mail_Prices;
 
 
 /**

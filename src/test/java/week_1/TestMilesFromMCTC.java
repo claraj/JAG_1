@@ -1,7 +1,6 @@
-package test_week_1;
+package week_1;
 
 import org.junit.Test;
-import week_1.Question_1_Miles_From_MCTC;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;

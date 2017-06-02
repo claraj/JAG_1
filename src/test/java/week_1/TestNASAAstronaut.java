@@ -1,7 +1,6 @@
-package test_week_1;
+package week_1;
 
 import org.junit.Test;
-import week_1.Question_3_NASA_Astronauts;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
