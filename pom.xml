@@ -47,8 +47,12 @@
             <version>22.0</version>
         </dependency>
 
-
-
+<!--Input Utils is for simplifying user input-->
+        <dependency>
+            <groupId>edu.minneapolis</groupId>
+            <artifactId>input-utils</artifactId>
+            <version>[1.0.0,)</version>
+        </dependency>
 
 
     </dependencies>
