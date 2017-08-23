@@ -28,7 +28,7 @@ public class Question_2_Windows_10_Install {
         boolean canUpgradeToWindows10 = checkWindows10SystemRequirements(currentOS, processorSpeed, ram);
 
         if (canUpgradeToWindows10) {
-            System.out.println("You can upgrade Windows 10");
+            System.out.println("You can upgrade to Windows 10");
         } else {
             System.out.println("Sorry, you can't upgrade to Windows 10");
         }
