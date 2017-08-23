@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Fork this repository, by clicking the Fork button in the top right
+1. This project/repo was created for you from GitHub classroom.
 2. Copy the URL of this repository in your own GitHub account
 3. In IntelliJ, open the VCS menu and select Checkout from Version Control and then GitHub
 4. In the window that opens, paste the GitHub URL into the Git Repository URL field. 
