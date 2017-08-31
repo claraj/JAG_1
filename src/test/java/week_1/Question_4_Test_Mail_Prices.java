@@ -9,7 +9,7 @@ import junit.framework.TestCase;
  */
 
 
-public class Test_Mail_Prices extends TestCase {
+public class Question_4_Test_Mail_Prices extends TestCase {
     
     public void testCalculateStampPrice() throws Exception {
 

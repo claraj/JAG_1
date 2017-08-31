@@ -12,7 +12,7 @@ import static org.junit.Assert.assertTrue;
 
 
 
-public class TestNASAAstronaut {
+public class Question_3_TestNASAAstronaut {
 
     @Test
     public void testAstronautQualifications() {

@@ -1,10 +1,8 @@
 package week_1;
 
-
 import static input.InputUtils.*;
 
 /**
- *
  * Ask the user how many miles they live from MCTC.
 
  Once the user has typed in their response,
@@ -28,15 +26,15 @@ public class Question_1_Miles_From_MCTC {
 
     }
 
-
+    
     public static String milesFromMCTC(double miles){
 
         // TODO Use if - else if - else statements to return the correct String
 
         // TODO delete this line and replace with your code.
-       return null;
-
+        return null;
     }
-
-
+    
+    
 }
+

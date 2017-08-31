@@ -11,7 +11,7 @@ import static org.junit.Assert.assertTrue;
  * DON'T MODIFY THIS FILE!
  */
 
-public class TestMilesFromMCTC {
+public class Question_1_TestMilesFromMCTC {
 
     @Test
     public void testMethodDoesNotReturnNull() {

@@ -1,5 +1,12 @@
 ## Week 1
 
+
+### Meters to Feet Converter
+
+Write a program that converts a distance in meters, to the equivalent in feet.
+To convert a quantity of meters to feet, multiply the number of meters by 3.28084. 
+
+
 ### Miles from MCTC
 
 /Ask the user how many miles they live from MCTC.

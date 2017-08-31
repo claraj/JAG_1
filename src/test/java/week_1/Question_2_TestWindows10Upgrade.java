@@ -12,7 +12,7 @@ import static org.junit.Assert.assertTrue;
  */
 
 
-public class TestWindows10Upgrade {
+public class Question_2_TestWindows10Upgrade {
 
     @Test
     public void testWin10Upgrade() {
