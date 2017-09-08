@@ -34,7 +34,8 @@ public class Question_0_Meters_To_Feet {
         
         // TODO write code here
         
-        // TODO Use the variable meters.  Calculate the equivalent number of feet
+        // TODO Use the variable meters.  Calculate the equivalent number of feet.
+        // Use the conversion factor feet = meters * 3.28084
         
         // TODO replace this line with a line that returns the number of feet you calculated.
         return 0;  // this isn't the right answer, but Java insists that we return something.
