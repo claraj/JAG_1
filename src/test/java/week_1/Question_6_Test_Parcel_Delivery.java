@@ -1,9 +1,10 @@
 package week_1;
 
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 public class Question_6_Test_Parcel_Delivery {
     
@@ -13,18 +14,18 @@ public class Question_6_Test_Parcel_Delivery {
         Question_6_Parcel_Delivery delivery = new Question_6_Parcel_Delivery();
         
         // Some valid weights
-        Assert.assertTrue(delivery.canShip(0.1));
-        Assert.assertTrue(delivery.canShip(10));
-        Assert.assertTrue(delivery.canShip(30));
+        assertTrue(delivery.canShip(0.1));
+        assertTrue(delivery.canShip(10));
+        assertTrue(delivery.canShip(30));
         
         
-        Assert.assertFalse("-1 should not be a valid weight for a parcel", delivery.canShip(-1));
-        Assert.assertFalse("0 should not be a valid weight for a parcel", delivery.canShip(0));
-        Assert.assertFalse("The parcel's weight should not exceed MAX_WEIGHT.  Use the MAX_WEIGHT variable in your method.", delivery.canShip(delivery.MAX_WEIGHT + 1));
+        assertFalse("-1 should not be a valid weight for a parcel", delivery.canShip(-1));
+        assertFalse("0 should not be a valid weight for a parcel", delivery.canShip(0));
+        assertFalse("The parcel's weight should not exceed MAX_WEIGHT.  Use the MAX_WEIGHT variable in your method.", delivery.canShip(delivery.MAX_WEIGHT + 1));
         
         // Checking if the code uses the MAX_WEIGHT variable
         delivery.MAX_WEIGHT = 10;
-        Assert.assertFalse("The parcel's weight should not exceed MAX_WEIGHT. Use the MAX_WEIGHT variable in your method.", delivery.canShip(delivery.MAX_WEIGHT + 5));
+        assertFalse("The parcel's weight should not exceed MAX_WEIGHT. Use the MAX_WEIGHT variable in your method.", delivery.canShip(delivery.MAX_WEIGHT + 5));
         
     }
     

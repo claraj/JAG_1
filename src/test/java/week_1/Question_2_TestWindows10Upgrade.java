@@ -18,7 +18,7 @@ public class Question_2_TestWindows10Upgrade {
     public void testWin10Upgrade() {
 
 
-        /**
+        /*
          To upgrade to Windows 10, a computer needs to have:
 
          •	Either Windows 7 OR Windows 8 installed

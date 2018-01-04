@@ -2,17 +2,17 @@ package week_1;
 
 import static input.InputUtils.stringInput;
 
+
+/**
+ *
+ * Finish the method that correctly identifies if the answer to the quiz question
+ * is correct.
+ *
+ * p.s. the answer is Bill Gates
+ *
+ */
+
 public class Question_5_Quiz_Question {
-    
-    /**
-     *
-     * Write a method that correctly identifies if the answer to the quiz question
-     * is correct.
-     *
-     * p.s. the answer is Bill Gates
-     *
-     */
-    
     
     public static void main(String[] args) {
         
