@@ -1,5 +1,6 @@
 package week_1;
 
+import static input.InputUtils.doubleInput;
 import static input.InputUtils.yesNoInput;
 
 /**
@@ -56,7 +57,8 @@ public class Question_4_Mail_Prices {
         return 0;   // This is the wrong answer, but Java requires us to return something.
 
     }
-
+    
+  
 }
 
 

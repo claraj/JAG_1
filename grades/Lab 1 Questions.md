@@ -68,13 +68,33 @@ To convert a quantity of meters to feet, multiply the number of meters by 3.2808
  Ask the user if their letter is flat or not
 
  Calculate and display the cost to mail the letter.
- 
-### Class Setup
- 
- Class setup checklist
- 
-  This isn't really a program, but read through the checklist, complete the items, and update
-  the variables as you complete each task so the autograder knows you've done all the things.
- 
-  Any questions or problems with any of these things? Please get in touch!
- 
+
+
+### Quiz Question
+
+   
+ Write a method that correctly identifies if the answer to the quiz question
+  is correct.
+     
+    p.s. the answer is Bill Gates
+  
+  
+  
+### Question 6
+
+ A parcel delivery company charges the following rates to ship a parcel.
+
+ *	Up to 10 pounds: $2.15 per pound
+ *	Up to 20 pounds: $1.55 per pound
+ *	Up to 30 pounds: $1.15 per pound
+
+ The shipping company does not ship parcels that weigh over 30 pounds.
+
+ So, a parcel that weighs 17 pounds will cost $1.55 x 17 = $26.35.
+
+ Write a program that asks the user for the weight of a parcel and displays whether it can be shipped, and what it will cost.
+
+ Optional extra: the most obvious solution to this problem uses if statements for the price bands. Can you think of a different way?  Hint:  loops, and arrays of price and max weights for price?
+
+
+  

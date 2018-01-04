@@ -1,6 +1,11 @@
 package week_1;
 
 import junit.framework.TestCase;
+import org.junit.Assert;
+import org.junit.Test;
+
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 
 /**
@@ -19,4 +24,6 @@ public class Question_4_Test_Mail_Prices extends TestCase {
         assertEquals("Non-rectangular, bumpy, letters should cost 70c", 70, Question_4_Mail_Prices.calculateStampPrice(false, false));
 
     }
+    
+   
 }
