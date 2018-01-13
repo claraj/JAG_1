@@ -60,7 +60,7 @@ public class Question_2_TestWindows10Upgrade {
         // Test with different OS, RAM and CPU exact match
         assertFalse("Linux, 1GHz processor, 2GB of RAM should return false", Question_2_Windows_10_Install.checkWindows10SystemRequirements(linux, 1, 2));
         // Test with different OS, RAM and CPU exceed
-        assertFalse("Windows 8, 2GHz processor, 3GB of RAM should return false", Question_2_Windows_10_Install.checkWindows10SystemRequirements(linux, 2, 3));
+        assertFalse("Linux, 2GHz processor, 3GB of RAM should return false", Question_2_Windows_10_Install.checkWindows10SystemRequirements(linux, 2, 3));
 
 
         // Test with Win 7, CPU OK, not enough RAM
