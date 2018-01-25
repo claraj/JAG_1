@@ -13,8 +13,8 @@ import static org.junit.Assert.assertTrue;
 
 
 public class Question_2_Windows10Upgrade_Test {
-
-    @Test
+    
+    @Test(timeout=3000)
     public void testWin10Upgrade() {
 
 

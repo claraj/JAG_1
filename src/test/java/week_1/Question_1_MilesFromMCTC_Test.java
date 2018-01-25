@@ -12,15 +12,15 @@ import static org.junit.Assert.assertTrue;
  */
 
 public class Question_1_MilesFromMCTC_Test {
-
-    @Test
+    
+    @Test(timeout=3000)
     public void testMethodDoesNotReturnNull() {
         // Test that the "return null" statement was removed
         assertNotNull("Remove the 'return null' statement from the milesFromMCTC method, and replace with your own code", Question_1_Miles_From_MCTC.milesFromMCTC(0));
 
     }
-
-    @Test
+    
+    @Test(timeout=3000)
     public void testMilesFromMCTC() {
 
         // Strings that are expected to be in the program output

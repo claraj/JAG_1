@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
 
 public class Question_6_ParcelDelivery_Test {
     
-    @Test
+    @Test(timeout=3000)
     public void testCanShip() throws Exception {
         
         Question_6_Parcel_Delivery delivery = new Question_6_Parcel_Delivery();
@@ -29,7 +29,7 @@ public class Question_6_ParcelDelivery_Test {
         
     }
     
-    @Test
+    @Test(timeout=3000)
     public void testCalculatePrice() throws Exception {
     
             /*	Up to 10 pounds: $2.15 per pound

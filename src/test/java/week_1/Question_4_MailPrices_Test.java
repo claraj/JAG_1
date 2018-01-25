@@ -16,6 +16,7 @@ import static org.junit.Assert.assertTrue;
 
 public class Question_4_MailPrices_Test extends TestCase {
     
+    @Test(timeout=3000)
     public void testCalculateStampPrice() throws Exception {
 
         assertEquals("Rectangular, flat letters should cost 49c", 49, Question_4_Mail_Prices.calculateStampPrice(true, true));
