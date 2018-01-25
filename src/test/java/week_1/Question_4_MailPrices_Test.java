@@ -14,7 +14,7 @@ import static org.junit.Assert.assertTrue;
  */
 
 
-public class Question_4_Test_Mail_Prices extends TestCase {
+public class Question_4_MailPrices_Test extends TestCase {
     
     public void testCalculateStampPrice() throws Exception {
 

@@ -8,7 +8,7 @@ import static week_1.Question_5_Quiz_Question.checkAnswer;
 /**
  * Created by clara on 1/4/18.
  */
-public class Question_5_Quiz_QuestionTest {
+public class Question_5_QuizQuestion_Test {
     
     @Test(timeout=3000)
     public void testQuizChecker() {

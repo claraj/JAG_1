@@ -3,42 +3,42 @@
     {
       "question" : 1,
       "java_file": "Question_1_Miles_From_MCTC",
-      "test_file": "TestMilesFromMCTC",
+      "test_file": "Question_1_MilesFromMCTC_Test",
       "points": 3
     },
 
     {
       "question" : 2,
       "java_file": "Question_2_Windows_10_Install",
-      "test_file": "TestWindows10Upgrade",
+      "test_file": "Question_2_Windows10Upgrade_Test",
       "points": 3.5
     },
 
     {
       "question" : 3,
       "java_file": "Question_3_NASA_Astronauts",
-      "test_file": "TestNASAAstronaut",
+      "test_file": "Question_3_NASAAstronaut_Test",
       "points": 3
     },
 
     {
       "question" : 4,
       "java_file": "Question_4_Mail_Prices",
-      "test_file": "Test_Mail_Prices",
+      "test_file": "Question_4_MailPrices_Test",
       "points": 3.5
     },
 
     {
       "question" : 5,
       "java_file": "Question_5_Quiz_Question",
-      "test_file": "Question_5_Quiz_QuestionTest",
+      "test_file": "Question_5_QuizQuestion_Test",
       "points": 3
     },
 
     {
       "question" : 6,
       "java_file": "Question_6_Parcel_Delivery",
-      "test_file": "Question_6_Test_Parcel_Delivery",
+      "test_file": "Question_6_ParcelDelivery_Test",
       "points": 4
     }
   ]
