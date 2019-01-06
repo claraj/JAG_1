@@ -8,7 +8,7 @@ import static input.InputUtils.stringInput;
  * Finish the method that correctly identifies if the answer to the quiz question
  * is correct.
  *
- * p.s. the answer is Bill Gates
+ * (Tip: the answer is Bill Gates.)
  *
  */
 
@@ -33,7 +33,7 @@ public class Question_5_Quiz_Question {
     public static boolean checkAnswer(String answer) {
         
         // TODO check that the user's answer is "Bill Gates" in any letter case.
-        // Case doesn't matter, so "bill gates" or "BILL GATES" or any other variation in case is ok.
+        // Case doesn't matter, so "bill gates" or "BILL GATES" or any other variation in case is the correct answer.
         return false;
     }
     

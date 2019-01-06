@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grades/Lab 1 Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1 Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1 Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1 Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java" afterDir="false" />
     </list>
     <ignored path="Java Auto Grader Labs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,38 +33,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Lab 1 Questions.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab 1 Questions.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="540">
+                <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Question_1_Miles_From_MCTC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grades/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="476">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -109,7 +95,6 @@
         <option value="$PROJECT_DIR$/src/test/java/test_week_1/TestNASAAstronaut.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_week_1/Test_Mail_Prices.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_5_Class_SetupTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_1/Question_5_Class_Setup.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_week_1/Question_5_Class_SetupTest.java" />
@@ -121,15 +106,12 @@
         <option value="$PROJECT_DIR$/../Java Auto Grader 0/src/main/java/week_0/Question_5_Class_Setup.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_4_Test_Mail_Prices.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_1/Question_4_Mail_Prices.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_6_Parcel_Delivery.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_1/Question_2_Windows_10_Install.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_3_TestNASAAstronaut.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_5_Quiz_QuestionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java" />
         <option value="$PROJECT_DIR$/grades/Lab 1 Questions.md" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_6_Test_Parcel_Delivery.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_2_TestWindows10Upgrade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" />
         <option value="$PROJECT_DIR$/grades/week_1.json" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_6_ParcelDelivery_Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_1/Question_4_MailPrices_Test.java" />
@@ -140,6 +122,11 @@
         <option value="$PROJECT_DIR$/grades/grade_scheme.json" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java" />
+        <option value="$PROJECT_DIR$/Lab 1 Questions.md" />
+        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week_1/Question_6_Parcel_Delivery.java" />
       </list>
     </option>
   </component>
@@ -185,9 +172,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="508" />
-    <option name="y" value="49" />
-    <option name="width" value="927" />
+    <option name="x" value="19" />
+    <option name="y" value="52" />
+    <option name="width" value="1228" />
     <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -853,7 +840,7 @@
       <workItem from="1516886856580" duration="383000" />
       <workItem from="1541350859463" duration="2421000" />
       <workItem from="1544566955213" duration="558000" />
-      <workItem from="1546792528114" duration="1475000" />
+      <workItem from="1546792528114" duration="1808000" />
     </task>
     <task id="LOCAL-00001" summary="Comments">
       <created>1496164236471</created>
@@ -995,7 +982,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541351398307</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Config files for autograder">
+      <created>1546816025685</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1546816025685</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1031,7 +1025,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44703000" />
+    <option name="totallyTimeSpent" value="45036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1043,7 +1037,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="508" y="49" width="927" height="785" extended-state="0" />
+    <frame x="19" y="52" width="1228" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1059,7 +1053,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.0625" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22485876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2470489" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1317,41 +1311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_6_Parcel_Delivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_4_Mail_Prices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_2_Windows_10_Install.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/week_1/Question_1_MilesFromMCTC_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1380,27 +1339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_1/Question_3_NASAAstronaut_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_1/Question_6_ParcelDelivery_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -1426,6 +1364,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_1/Question_6_ParcelDelivery_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/week_1/Question_3_NASAAstronaut_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_6_Parcel_Delivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_5_Quiz_Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_4_Mail_Prices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_3_NASA_Astronauts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_2_Windows_10_Install.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week_1/Question_1_Miles_From_MCTC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 1 Questions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

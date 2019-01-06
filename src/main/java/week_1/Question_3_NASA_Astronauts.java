@@ -6,7 +6,7 @@ import static input.InputUtils.doubleInput;
  * To become a NASA astronaut, you need to be between 58 and 76 inches tall, so you
  * are not too tall to fit in the spaceship, but are tall enough to can reach all the controls.
 
- You also need to be able to swim at least 75 meters when you make a water landing on return to earth.
+ You also need to be able to swim at least 75 yards when you make a water landing on return to earth.
 
  Write a program to ask the user questions about their height and swimming ability,
  and then use conditional statements to determine if they have potential as a NASA astronaut.
@@ -20,7 +20,7 @@ public class Question_3_NASA_Astronauts {
     public static void main(String[] args) {
 
         double height = doubleInput("How tall are you, in inches?");
-        double swimDistance = doubleInput("How far can you swim, in meters?");
+        double swimDistance = doubleInput("How far can you swim, in yards?");
 
         boolean astronautPotential = checkAstronautQualifications(height, swimDistance);
 
