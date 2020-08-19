@@ -114,7 +114,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_5_Quiz_Question">
+  <component name="RunManager" selected="JUnit.All in Java Auto Grader">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -440,9 +440,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Java Auto Grader" />
         <item itemvalue="Application.Question_5_Quiz_Question" />
         <item itemvalue="JUnit.Question_5_QuizQuestion_Test.testQuizChecker" />
-        <item itemvalue="JUnit.All in Java Auto Grader" />
         <item itemvalue="JUnit.Question_0_Meters_To_FeetTest.convertMetersToFeet" />
         <item itemvalue="JUnit.Question_3_NASAAstronaut_Test" />
       </list>
