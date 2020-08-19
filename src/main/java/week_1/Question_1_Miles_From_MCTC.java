@@ -14,6 +14,7 @@ import static input.InputUtils.*;
  Use if – else if – else statements.
 
  */
+
 public class Question_1_Miles_From_MCTC {
 
     public static void main(String[] args) {

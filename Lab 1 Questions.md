@@ -34,7 +34,7 @@ if they are able to install Windows 10.
 To become a NASA astronaut, you need to be between 58 and 76 inches tall, so you
 are not too tall to fit in the spaceship, but are tall enough to can reach all the controls.
 
-You also need to be able to swim at least 75 yards when you make a water landing on return to earth.
+You also need to be able to swim at least 75 yards if case you need to make a water landing on return to earth.
 
 Write a program to ask the user questions about their height and swimming ability,
 and then use conditional statements to determine if they have potential as a NASA astronaut.
@@ -63,11 +63,9 @@ Calculate and display the cost to mail the letter.
 
 ### Quiz Question
 
-   
 Finish the checkAnswer method that correctly identifies if the answer to the quiz question is correct.
      
 Hint: the answer is Bill Gates.
-  
   
   
 ### Parcel Delivery
